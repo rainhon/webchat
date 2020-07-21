@@ -2,9 +2,9 @@
   <div>
     <mt-header class="mint-header" v-bind:title="title"></mt-header>
     <mt-nav-bar v-model="selected">
-      <mt-tab-item id="1">彩虹碗
+      <mt-tab-item id="1">服务器聊天
       </mt-tab-item>
-      <mt-tab-item id="2">其他
+      <mt-tab-item id="2">服务器状态查询(未完工)
       </mt-tab-item>
     </mt-nav-bar>
     <mt-tab-container v-model="selected">
@@ -31,7 +31,7 @@
     name: 'App',
     data() {
       return {
-        title: "test",
+        title: "mc云玩家网页工具",
         selected: "1",
       }
     }
