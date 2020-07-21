@@ -9,7 +9,7 @@
     </mt-nav-bar>
     <mt-tab-container v-model="selected">
       <mt-tab-container-item id="1">
-        <chat-room  server-address="ws://rainbowl.club:7000"></chat-room>
+        <chat-room></chat-room>
       </mt-tab-container-item>
       <mt-tab-container-item id="2"></mt-tab-container-item>
     </mt-tab-container>
