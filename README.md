@@ -1,7 +1,7 @@
 # webchat
 
 > 聊天室
-配套spigot插件https://github.com/rainhon/WebchatPlugin
+> 配套spigot插件https://github.com/rainhon/WebchatPlugin
 
 ## Build Setup
 
